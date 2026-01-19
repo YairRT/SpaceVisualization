@@ -2,7 +2,7 @@
 
 ## Overall architecture
 
-- Data: the data comes from CelesTrak API, it comes in TLE format
+- Data: the data comes from CelesTrak API, it comes in TLE format and transformed through the SGP4 model 
 
 
 
